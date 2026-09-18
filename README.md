@@ -35,6 +35,6 @@ communication.
 
 ## 📫 Connect With Me
 
-- LinkedIn: [Add your LinkedIn]
-- Email: [Add your email]
+- LinkedIn: [https://www.linkedin.com/in/sanya-lamba-212491284/]
+- Email: [sanyalamba2424@gmail.com]
 - GitHub: https://github.com/sanyahppj24-lang
